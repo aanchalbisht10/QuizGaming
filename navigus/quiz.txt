@@ -1,0 +1,9 @@
+COURSE NAME: Java
+EDITED BY:Mr. Ram Singh
+1) Which of the following is not java features.
+A) Polymorphism
+B) Pointers
+C) Inheritance
+D) Abstraction
+10 Points
+
