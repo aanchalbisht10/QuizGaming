@@ -1,2 +1,8 @@
-1. What is full form of WWW?
-1. What is serialization
+COURSE NAME: Java
+EDITED BY:Mr. Ram Singh
+1) Which of the following is not java features.
+A) Polymorphism
+B) Pointers
+C) Inheritance
+D) Abstraction
+10 Points
